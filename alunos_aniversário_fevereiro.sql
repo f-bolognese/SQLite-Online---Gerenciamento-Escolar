@@ -1,0 +1,1 @@
+SELECT * FROM Alunos WHERE STRFTIME('%m', data_nascimento) = '02';

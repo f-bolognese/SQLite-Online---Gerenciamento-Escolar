@@ -1,0 +1,1 @@
+SELECT * FROM alunos WHERE nome_aluno like ('A%');

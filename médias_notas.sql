@@ -1,0 +1,1 @@
+SELECT AVG(nota) média FROM Notas where id_disciplina = 2;
